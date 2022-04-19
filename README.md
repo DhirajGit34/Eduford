@@ -1,1 +1,2 @@
-# Eduford-E-learning Management System
+# Eduford
+# E-learning Management System
